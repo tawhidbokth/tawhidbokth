@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250"  width="700"  src="https://raw.githubusercontent.com/tawhidbokth/porject/refs/heads/main/Yasin%20Bokth%20Tawhid.png?token=GHSAT0AAAAAACUN2UCE6SUD6ZHOYC4NJZ6OZ35NB2A"  />
+  <img   src="https://raw.githubusercontent.com/tawhidbokth/porject/refs/heads/main/Yasin%20Bokth%20Tawhid.png?token=GHSAT0AAAAAACUN2UCE6SUD6ZHOYC4NJZ6OZ35NB2A" width="300" height="250" />
 </div>
 
 ###
