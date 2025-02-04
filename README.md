@@ -1,6 +1,7 @@
 <div align="center">
-  <img   height="250" src="https://i.ibb.co.com/MyHtjbqm/Yasin-Bokth-Tawhid.png" />
+  <img width="100%" src="https://i.ibb.co.com/MyHtjbqm/Yasin-Bokth-Tawhid.png" />
 </div>
+
 
 ###
 
