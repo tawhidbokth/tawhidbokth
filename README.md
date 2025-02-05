@@ -68,20 +68,23 @@ I’m a passionate **Frontend Developer** with a strong interest in mastering th
 ---
 
 ## 🔗 Social Links  
-[![LinkedIn](https://www.linkedin.com/in/yasin-bokth-tawhid/)  
-[![Portfolio](https://yasinbokthtawhid.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-bokth-tawhid/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawhidbokth)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://yasinbokthtawhid.netlify.app/)  
+
 
 ---
 
 ## 📊 GitHub Stats  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?tawhidbokth=your-github&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tawhidbokth&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img width="12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?tawhidbokth=your-github&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhidbokth&theme=radical" alt="GitHub Streak" />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?tawhidbokth=your-github&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidbokth&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 
 ---
 
