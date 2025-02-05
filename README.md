@@ -80,7 +80,6 @@ I’m a passionate **Frontend Developer** with a strong interest in mastering th
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tawhidbokth&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img width="12" />
-    <img src="https://github-readme-streak-stats.vercel.app/?user=tawhidbokth&theme=radical" alt="GitHub Streak" />
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidbokth&layout=compact&theme=radical" alt="Top Languages" />
 </div>
