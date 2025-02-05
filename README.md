@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i.ibb.co.com/MyHtjbqm/Yasin-Bokth-Tawhid.png" />
+  <img width="100%" src="https://i.ibb.co.com/mVSV4tVW/Yasin-Bokth-Tawhid-1.png" />
 </div>
 
 ##
